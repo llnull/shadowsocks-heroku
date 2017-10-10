@@ -7,6 +7,6 @@
     "ws": "^1.0.1"
   },
   "scripts": {
-    "start": "node local.js -s ll-socks.herokuapp.com"
+    "start": "node local.js -b 127.0.0.1"
   }
 }
